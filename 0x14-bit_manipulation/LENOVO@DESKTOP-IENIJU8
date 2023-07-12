@@ -1,0 +1,19 @@
+sh 1ea32f048ab9@1ea32f048ab9.223f316d.alx-cod.online
+1ea32f048ab9@1ea32f048ab9.223f316d.alx-cod.online's password:
+root@1ea32f048ab9:/# cd root
+root@1ea32f048ab9:~# ls
+alx-low_level_programming  empty_directory  not_here  old_school  ready_to_be_removed  school
+root@1ea32f048ab9:~# cd alx-low_level_programming
+root@1ea32f048ab9:~/alx-low_level_programming# ls
+0x00-hello_world                  0x08-recursion           0x0F-function_pointers
+0x01-variables_if_else_while      0x09-static_libraries    0x10-variadic_functions
+0x03-debugging                    0x0A-argc_argv           0x12-singly_linked_lists
+0x04-more_functions_nested_loops  0x0B-malloc_free         0x13-more_singly_linked_lists
+0x05-pointers_arrays_strings      0x0C-more_malloc_free    0x14-bit_manipulation
+0x06-pointers_arrays_strings      0x0D-preprocessor
+0x07-pointers_arrays_strings      0x0E-structures_typedef
+root@1ea32f048ab9:~/alx-low_level_programming# cd 0x14-bit_manipulation
+root@1ea32f048ab9:~/alx-low_level_programming/0x14-bit_manipulation# ls
+README.md
+root@1ea32f048ab9:~/alx-low_level_programming/0x14-bit_manipulation# vi
+i
